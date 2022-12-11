@@ -1,0 +1,15 @@
+C:\Users\sv13y\Desktop\DZ_4\EX_3\obj\Debug\net7.0\EX_3.csproj.AssemblyReference.cache
+C:\Users\sv13y\Desktop\DZ_4\EX_3\obj\Debug\net7.0\EX_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv13y\Desktop\DZ_4\EX_3\obj\Debug\net7.0\EX_3.AssemblyInfoInputs.cache
+C:\Users\sv13y\Desktop\DZ_4\EX_3\obj\Debug\net7.0\EX_3.AssemblyInfo.cs
+C:\Users\sv13y\Desktop\DZ_4\EX_3\obj\Debug\net7.0\EX_3.csproj.CoreCompileInputs.cache
+C:\Users\sv13y\Desktop\DZ_4\EX_3\bin\Debug\net7.0\EX_3.exe
+C:\Users\sv13y\Desktop\DZ_4\EX_3\bin\Debug\net7.0\EX_3.deps.json
+C:\Users\sv13y\Desktop\DZ_4\EX_3\bin\Debug\net7.0\EX_3.runtimeconfig.json
+C:\Users\sv13y\Desktop\DZ_4\EX_3\bin\Debug\net7.0\EX_3.dll
+C:\Users\sv13y\Desktop\DZ_4\EX_3\bin\Debug\net7.0\EX_3.pdb
+C:\Users\sv13y\Desktop\DZ_4\EX_3\obj\Debug\net7.0\EX_3.dll
+C:\Users\sv13y\Desktop\DZ_4\EX_3\obj\Debug\net7.0\refint\EX_3.dll
+C:\Users\sv13y\Desktop\DZ_4\EX_3\obj\Debug\net7.0\EX_3.pdb
+C:\Users\sv13y\Desktop\DZ_4\EX_3\obj\Debug\net7.0\EX_3.genruntimeconfig.cache
+C:\Users\sv13y\Desktop\DZ_4\EX_3\obj\Debug\net7.0\ref\EX_3.dll
