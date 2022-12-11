@@ -27,36 +27,40 @@ if (elementsCont == 0)
 {
     Console.WriteLine("\nIs not a valid value");
 
+
 }
 if (elementsCont < 0)
 {
     Console.WriteLine("\nIs not a valid value");
 
 }
-int[] myArray = new int[elementsCont];
-Random random = new Random();
-Console.WriteLine();
-Console.Write($"Генерирую массив на {elementsCont} «интересных» случайных целых чисел от 10 до 1000");
-Console.WriteLine();
-Console.Write("\nВывожу массив: ");
-for (int i = 0; i < myArray.Length; i++)
+if (elementsCont > 0)
 {
-loop1:
-    myArray[i] = random.Next(10, 1000);
-    double a = Convert.ToDouble(product(myArray[i]));
-    double b = Convert.ToDouble(summer(myArray[i]));
 
-    if (a % b == 0 && a != 0)
+
+    int[] myArray = new int[elementsCont];
+    Random random = new Random();
+    Console.WriteLine();
+    Console.Write($"Генерирую массив на {elementsCont} «интересных» случайных целых чисел от 10 до 1000");
+    Console.WriteLine();
+    Console.Write("\nВывожу массив: ");
+    for (int i = 0; i < myArray.Length; i++)
     {
-        Console.Write(myArray[i] + " ");
-    }
-    if (a % b != 0 || a == 0)
-    {
-        goto loop1;
+    loop1:
+        myArray[i] = random.Next(10, 1000);
+        double a = Convert.ToDouble(product(myArray[i]));
+        double b = Convert.ToDouble(summer(myArray[i]));
+
+        if (a % b == 0 && a != 0)
+        {
+            Console.Write(myArray[i] + " ");
+        }
+        if (a % b != 0 || a == 0)
+        {
+            goto loop1;
+
+        }
 
     }
-
-
 }
-
 
